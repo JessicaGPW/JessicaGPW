@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @JessicaGPW
+- 👀 I study full stack developer and I want to exchange experiences with other devs to grow in my career.
