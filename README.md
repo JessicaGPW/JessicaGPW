@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Jessica Fernandes
+# Hi there 👋 I'm Jessica Baptista
 
 💻 Full Stack Developer
 
